@@ -1,0 +1,29 @@
+# Whiteboarding Wednesday 
+Centralized source for whiteboarding problems covered each Wednesday.
+
+## What is it?
+
+A weekly workshop created to help DBC students and alumi practice their technical interview skills. 
+
+## Weekly Problems
+
+- [Week 1 (7/19)]
+
+- [Week 2 (7/26)]
+
+- [Week 3 (8/2)]
+
+## Resources
+
+**External**
+- [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Interview Cake](https://www.interviewcake.com/)
+- [Brian Stroti's Ruby Graph Algorithms](https://github.com/brianstorti/ruby-graph-algorithms)
+- [Coursera: Algorithms, Part I from Princeton](https://www.coursera.org/course/algs4partI)
+- [Coursera: Algorithms: Design and Analysis, Part 1 from Stanford](https://www.coursera.org/course/algo)
+- [Andy's answer to: Why have tech interview become hard?](http://qr.ae/RoLQfu)
+
+## Contact Info
+
+Roger Li: @weihsuan.li24@gmail.com 
+
