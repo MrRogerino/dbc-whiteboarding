@@ -7,9 +7,9 @@ A weekly workshop created to help DBC students and alumi practice their technica
 
 ## Weekly Problems
 
-- [Week 1 (7/19)]
+- [Week 1 (7/19)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/July_19)
 
-- [Week 2 (7/26)]
+- [Week 2 (7/26)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/July_26)
 
 - [Week 3 (8/2)]
 
