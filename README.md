@@ -27,3 +27,9 @@ A weekly workshop created to help DBC students and alumi practice their technica
 
 Roger Li: @weihsuan.li24@gmail.com 
 
+## Feedback 
+
+[Form](https://goo.gl/forms/sQSFnZT3H0l5tPvL2)
+
+All feedback is welcome and appreciated! 
+
