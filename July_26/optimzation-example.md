@@ -1,4 +1,4 @@
-#Optimization Example (for runtime)
+## Optimization Example (for runtime)
 
 - Consider these three algorithms, which all do the same thing: grab all the divisors for a given integer.
 
