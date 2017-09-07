@@ -7,7 +7,7 @@ Would the word 'wood' be the most recurring word in the sentence "how much wood 
 ```ruby
 sentence = "how much wood would a wood chuck chuck if a wood"
 most_recurring_word(sentence)
-=> "wood, chuck"
+=> "wood"
 
 blue = "I'm blue da ba dee da ba daa"
 most_recurring_word(blue)
