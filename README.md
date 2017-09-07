@@ -19,6 +19,8 @@ A weekly workshop created to help DBC students and alumi practice their technica
 
 - [Week 6 (8/30)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_30)
 
+- [Week 7 (9/6)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/September_6)
+
 ## Resources
 
 **External**
