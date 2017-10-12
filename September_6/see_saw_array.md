@@ -10,8 +10,8 @@ Given a set of numbers, return true if there exists a number in the set in which
 see_saw = [1,2,3,5,6]
 => true
 => 3 # the index at which the see_saw is balanced
-# the sum of all numbers to the left of 4 (1+2+3)
-# is equal to the sum of all numbers to the right of 6
+# the sum of all numbers to the left of 5 (1+2+3)
+# is equal to the sum of all numbers to the right of 5
 
 see_saw = [1,10,2,5,6,9,4,1,4,8,14,6]
 => true
