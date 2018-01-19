@@ -45,6 +45,12 @@ class LinkedList
 
   def pop
     current_node = @head
+
+    if current_node.next_node == nil
+      @head = nil
+      return current_node 
+    end
+
     second_node = @head.next_node
     while second_node.next_node != nil
       current_node = second_node
