@@ -35,7 +35,7 @@ class LinkedList
       output += " -> #{current_node.value}"
     end
 
-    output
+    puts output
   end
 
   def push(value)
@@ -53,6 +53,30 @@ class LinkedList
 
     current_node.next_node = nil
     return second_node
+  end
+
+
+  def insert(value, insert_index)
+    current_node = @head
+    current_index = 1
+
+    if insert_index == 0 # inserting at the very beginning of the list
+      @head = Node.new(value, current_node)
+      return
+    end
+
+    while current_node.next_node != nil
+      p "current index: #{current_index}"
+      if insert_index == current_index
+        next_node = current_node.next_node
+        current_node.next_node = Node.new(value, next_node)
+        return
+      end
+      current_node = current_node.next_node
+      current_index += 1
+    end
+
+    puts "Insert index does not exist"
   end
 
   def delete(search)
