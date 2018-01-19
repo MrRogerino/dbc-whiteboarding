@@ -12,8 +12,18 @@ A ```LinkedList``` only has one basic attribute: a ```head``` which is equal to 
 
 Now that we have our skeleton set up, let's define some basic methods for our ```LinkedList``` class. Our ```Node``` class should remain untouched while we write methods for our ```LinkedList```.
 
-- First, let's start with a ```#last``` method, which returns the value of the last node in a linked list. Think about how iterating through a linked list is different from an array. How do we know what the current value is? How do we know when we're at the end of the list?  
+- Let's start with a ```#last``` method, which returns the value of the last node in a linked list. Think about how iterating through a linked list is different from an array. How do we know what the current value is? How do we know when we're at the end of the list?  
 
-- Next, let's define a ```#include?``` method, which takes in some value as an argument and returns true if the value exists within the list. How is this similar or different compared to ```Array#include?```?
+- Next, let's define a ```#include?``` method, which takes in some value as an parameter and returns true if the value exists within the list. How is this similar or different compared to ```Array#include?```?
 
-- 
+### More Methods
+
+We've just defined some methods that demonstrate how to iterate through a ```LinkedList```. Now, let's define some methods which will alter a given ```LinkedList```.
+
+- The first method we will define is ```#push```; similar to ```Array#push```, this method will take in a parameter, and append that value to the end of the list. What does appending mean in the context of a ```LinkedList```? How is it different from ```Array#push```?
+
+- Let's go ahead and define a similar method: ```#pop```, which will remove the last item from a ```LinkedList``` and return it. What parts of previous methods can we use to help define this method? Once we ```pop``` a node from the end of a list, do we need to do anything else?
+
+- Let's take another ```Array``` method and define it within the context of a ```LinkedList```. What about ```#delete```? What does the ```delete``` method do when called upon an ```Array```, and how does that translate to a ```LinkedList```. As you define these methods, notice the similarities and differences between the two classes.
+
+- Our final method will be ```insert```, which will take in two parameters: the value to be inserted, and the index at which the value should be inserted at. How do we keep track of an index in a ```LinkedList```?
