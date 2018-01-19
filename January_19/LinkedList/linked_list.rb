@@ -1,3 +1,5 @@
+require_relative 'node'
+
 class LinkedList
   def initialize(head)
     @head = head
@@ -48,7 +50,7 @@ class LinkedList
 
     if current_node.next_node == nil
       @head = nil
-      return current_node 
+      return current_node
     end
 
     second_node = @head.next_node
@@ -84,13 +86,4 @@ class LinkedList
 
     puts "Insert index does not exist"
   end
-
-  def delete(search)
-    until @head.value != search || @head.next_node == nil
-      @head = head.next_node
-    end
-
-
-  end
-
 end
