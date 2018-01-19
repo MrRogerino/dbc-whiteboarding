@@ -8,28 +8,28 @@ A weekly workshop created to help DBC students and alumi practice their technica
 ## Weekly Problems
 
 * ### 2017
-- [Week 1 (7/19)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/July_19)
+  - [Week 1 (7/19)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/July_19)
 
-- [Week 2 (7/26)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/July_26)
+  - [Week 2 (7/26)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/July_26)
 
-- [Week 3 (8/3)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_3)
+  - [Week 3 (8/3)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_3)
 
-- [Week 4 (8/9)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_9)
+  - [Week 4 (8/9)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_9)
 
-- [Week 5 (8/17)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_17)
+  - [Week 5 (8/17)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_17)
 
-- [Week 6 (8/30)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_30)
+  - [Week 6 (8/30)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/August_30)
 
-- [Week 7 (9/6)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/September_6)
+  - [Week 7 (9/6)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/September_6)
 
-- [Week 8 (9/20)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/September_20)
+  - [Week 8 (9/20)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/September_20)
 
-- [Week 9 (9/27)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/September_27)
+  - [Week 9 (9/27)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/September_27)
 
-- [Week 10 (10/18)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/October_18)
+  - [Week 10 (10/18)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/October_18)
 
 * ### 2018 
-- [Week 1 (1/19)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/January_19)
+  - [Week 1 (1/19)](https://github.com/MrRogerino/dbc-whiteboarding/tree/master/January_19)
 
 
 ## Resources
