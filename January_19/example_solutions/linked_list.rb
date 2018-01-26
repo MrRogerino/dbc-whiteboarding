@@ -63,7 +63,6 @@ class LinkedList
     return second_node
   end
 
-
   def insert(value, insert_index)
     current_node = @head
     current_index = 1
@@ -85,5 +84,36 @@ class LinkedList
     end
 
     puts "Insert index does not exist"
+  end
+
+  def delete(search)
+    # before iterating through the list, we have to check the head value
+    # and keep moving the head until the value it matches the non-seach value
+    while @head.value == search || @head.next_node == nil # checks to see if head node value is equal to search value or if at the end of the list
+      if @head.next_node == nil && @head.value == search # if at the end of the list, and the head still matches the search value
+        @head = nil
+        return # return an empty list
+      elsif @head.next_node == nil && @head.value != search # if at the end of the list, but the last value does NOT match the search
+        return
+      else
+        @head = @head.next_node # move the head one forward
+      end
+    end
+
+    # iterate through the list
+    previous_node = @head
+    current_node = @head.next_node
+    while current_node.next_node != nil
+      if current_node.value == search
+        previous_node.next_node = current_node.next_node
+      end
+      previous_node = current_node
+      current_node = current_node.next_node
+    end
+
+    if current_node.value == search
+      previous_node.next_node = nil
+    end
+    
   end
 end
