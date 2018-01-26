@@ -1,3 +1,4 @@
+require_relative 'node'
 class LinkedList
   def initialize
 
@@ -29,5 +30,5 @@ class LinkedList
 
   def delete(search)
 
-  end 
+  end
 end

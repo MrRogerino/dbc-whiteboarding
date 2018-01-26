@@ -63,7 +63,6 @@ class LinkedList
     return second_node
   end
 
-
   def insert(value, insert_index)
     current_node = @head
     current_index = 1
@@ -101,7 +100,7 @@ class LinkedList
       end
     end
 
-    # iterate through the list 
+    # iterate through the list
     previous_node = @head
     current_node = @head.next_node
     while current_node.next_node != nil
@@ -115,5 +114,6 @@ class LinkedList
     if current_node.value == search
       previous_node.next_node = nil
     end
+    
   end
 end
